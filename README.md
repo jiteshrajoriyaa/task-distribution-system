@@ -16,7 +16,7 @@ The uploaded data is **validated, processed, and distributed equally among agent
 
 #### 1. Clone the repo
 ```bash
-git clone https://github.com/jiteshrajoriyaa/task-distribution.git
+git clone https://github.com/jiteshrajoriyaa/task-distribution-system.git
 cd task-distribution
 ```
 
@@ -48,4 +48,5 @@ npm run dev
 ### Tech Stack
 - Frontend: React, TailwindCSS, shadcn/ui, Axios
 - Backend: Node.js, Express.js, MongoDB, Multer, XLSX, CSV-Parser
+
 
