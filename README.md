@@ -46,6 +46,6 @@ npm run dev
 ```
 
 ### Tech Stack
-Frontend: React, TailwindCSS, shadcn/ui, Axios
-Backend: Node.js, Express.js, MongoDB, Multer, XLSX, CSV-Parser
+- Frontend: React, TailwindCSS, shadcn/ui, Axios
+- Backend: Node.js, Express.js, MongoDB, Multer, XLSX, CSV-Parser
 
